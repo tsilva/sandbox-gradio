@@ -1,0 +1,9 @@
+name: sandbox-gradio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - gradio>=5.0.0

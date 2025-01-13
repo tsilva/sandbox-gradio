@@ -169,3 +169,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Gradio
+gradio_cached_examples/
+
+.gradio
