@@ -188,3 +188,4 @@ ENV/
 gradio_cached_examples/
 
 .gradio
+*/.gradio
