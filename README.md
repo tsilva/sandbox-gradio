@@ -10,4 +10,4 @@ conda env create -f environment.yml
 conda activate gradio-sandbox
 ```
 
-# TODO: currently here: https://www.gradio.app/guides/using-blocks-like-functions
+# TODO: https://www.gradio.app/guides/queuing
