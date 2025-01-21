@@ -1,9 +1,15 @@
 name: sandbox-gradio
 channels:
+  - pytorch
+  - nvidia
   - conda-forge
   - defaults
 dependencies:
   - python=3.10
-  - pip
-  - pip:
-    - gradio>=5.0.0
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - transformers
+  - gradio>=5.0.0
+
