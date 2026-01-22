@@ -5,7 +5,7 @@
   [![Gradio](https://img.shields.io/badge/Gradio-5.0+-orange.svg)](https://gradio.app/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **A hands-on collection of Gradio examples for learning interactive ML interfaces**
+  **🎨 A hands-on collection of Gradio examples for learning interactive ML interfaces ⚡**
 
   [Gradio Docs](https://gradio.app/docs/) · [Gradio Guides](https://www.gradio.app/guides)
 </div>
