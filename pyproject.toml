@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sandbox-gradio"
+version = "0.1.0"
+description = "**🎨 A hands-on collection of Gradio examples for learning interactive ML interfaces ⚡**"
+requires-python = ">=3.10"
+dependencies = []

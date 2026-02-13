@@ -175,7 +175,3 @@ Each example is self-contained and demonstrates a specific feature. To add a new
 ## License
 
 MIT
-
-## TODO
-
-- [ ] Learn about [Gradio's queuing system](https://www.gradio.app/guides/queuing)
