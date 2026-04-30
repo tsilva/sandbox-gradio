@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-gradio" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-gradio/main/logo.png" alt="sandbox-gradio" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![Gradio](https://img.shields.io/badge/Gradio-5.0+-orange.svg)](https://gradio.app/)
