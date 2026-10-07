@@ -1,17 +1,19 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-gradio/main/logo.png" alt="sandbox-gradio" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🎨 Learn Gradio by building interactive machine learning interfaces ⚡</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![Gradio](https://img.shields.io/badge/Gradio-5.0+-orange.svg)](https://gradio.app/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🎨 A hands-on collection of Gradio examples for learning interactive ML interfaces ⚡**
-
   [Gradio Docs](https://gradio.app/docs/) · [Gradio Guides](https://www.gradio.app/guides)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
